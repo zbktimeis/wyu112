@@ -6,7 +6,7 @@ import java.net.URL;
 import java.net.URLConnection;
 
 public class DownloadPicFromWeb {
-
+	//test
     public static void main(String[] args) throws IOException {
         URL url = new URL("http://pic1.win4000.com/pic/1/5c/b19b23087f.jpg");
         String downUrl = "D:/demo/xx/beauty.jpg";
